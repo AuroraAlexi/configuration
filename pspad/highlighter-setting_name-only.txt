@@ -1,0 +1,14 @@
+Comment
+Identifier
+Key
+Label
+Message
+Number
+Space
+String
+Symbol
+Variable
+
+Current line
+Background
+

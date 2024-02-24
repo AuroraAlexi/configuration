@@ -1,0 +1,920 @@
+
+       
+    160 0 240 / 255 255 255
+ Hue Sat Lum / Red Green Blue
+
+
+
+
+
+Highlighter Background
+
+    160 0 240 / 255 255 255
+
+
+
+File tab color
+
+    160 0 240 / 255 255 255
+
+
+
+Background
+
+    40 240 120 / 255 255 0
+
+
+
+
+
+
+
+
+
+Comment
+
+    Font: 160 0 104 / 110 110 110
+    Style: Italic
+    Background: 160 0 240 / 255 255 255
+
+
+
+Identifier
+
+    Font: 160 0 46 / 49 49 49
+    Style: 
+    Background: 160 0 240 / 255 255 255
+
+
+
+Key
+
+    Font: 160 0 45 / 48 48 48
+    Style: Bold
+    Background: 160 0 240 / 255 255 255
+
+
+
+Label
+
+    Font: 0 240 120 / 255 0 0
+    Style: 
+    Background: 160 0 240 / 255 255 255
+
+
+
+Message
+
+    Font: 13 240 127 / 255 92 15
+    Style: Italic
+    Background: 160 0 240 / 255 255 255
+
+
+Number
+
+    Font: 160 240 75 / 0 0 160
+    Style: 
+    Background: 160 0 240 / 255 255 255
+
+
+
+Space
+
+    Font: 120 240 60 / 0 128 128
+    Style: Italic
+    Background: 160 0 240 / 255 255 255
+
+
+
+String
+
+    Font: 0 240 70 / 149 0 0
+    Style: 
+    Background: 160 0 240 / 255 255 255
+
+
+
+Symbol
+
+    Font: 160 240 60 / 0 0 128
+    Style: 
+    Background: 160 0 240 / 255 255 255
+
+
+
+Variable
+
+    Font: 0 240 157 / 255 79 79
+    Style: 
+    Background: 160 0 240 / 255 255 255
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------
+scratch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Unique:
+    Comment
+
+Font: 160 0 104 / 110 110 110
+Style: Italic
+Background: 160 0 240 / 255 255 255
+
+
+    Identifier
+
+Font: 160 0 46 / 49 49 49
+Style: 
+Background: 160 0 240 / 255 255 255
+
+    Key
+
+Font: 160 0 45 / 48 48 48
+Style: Bold
+Background: 160 0 240 / 255 255 255
+
+
+    Label
+
+Font: 0 240 120 / 255 0 0
+Style: 
+Background: 160 0 240 / 255 255 255
+
+
+
+
+
+    Message
+
+Font: 13 240 127 / 255 92 15
+Style: Italic
+Background: 160 0 240 / 255 255 255
+
+
+
+
+    Number
+Font: 160 240 75 / 0 0 160
+Style: 
+Background: 160 0 240 / 255 255 255
+
+
+    Space
+
+Font: 120 240 60 / 0 128 128
+Style: Italic
+Background: 160 0 240 / 255 255 255
+
+
+
+    String
+
+Font: 0 240 70 / 149 0 0
+Style: 
+Background: 160 0 240 / 255 255 255
+
+
+    Symbol
+
+Font: 160 240 60 / 0 0 128
+Style: 
+Background: 160 0 240 / 255 255 255
+
+
+    Variable
+
+Font: 0 240 157 / 255 79 79
+Style: 
+Background: 160 0 240 / 255 255 255
+
+                 Unique:
+                 
+Comment == [ 160 0 104 / 110 110 110 ] ~ { 160 0 240 / 255 255 255 } ++ ITALIC
+Identifier == [ 160 0 46 / 49 49 49 ] ~ {  160 0 240 / 255 255 255 }
+Key == [ 160 0 45 / 48 48 48 ] ~ {  160 0 240 / 255 255 255 } ++ BOLD
+Label == [ 0 240 120 / 255 0 0 ] ~ {  160 0 240 / 255 255 255 }
+Message == [ 13 240 127 / 255 92 15 ] ~ {  160 0 240 / 255 255 255 } ++ ITALIC
+Number == [ 160 240 75 / 0 0 160 ] ~ {  160 0 240 / 255 255 255 }
+Space == [ 120 240 60 / 0 128 128 ] ~ {  160 0 240 / 255 255 255 } ++ ITALIC
+String == [ 0 240 70 / 149 0 0 ] ~ {  160 0 240 / 255 255 255 }
+Symbol == [ 160 240 60 / 0 0 128 ] ~ {  160 0 240 / 255 255 255 }
+Variable == [ 0 240 157 / 255 79 79 ] ~ { 160 0 240 / 255 255 255 }
+
+
+
+                 Unique:
+Comment == [ 160 0 104 / 110 110 110 ] ~ { 160 0 240 / 255 255 255 } ++ ITALIC
+Identifier == [ 160 0 46 / 49 49 49 ] ~ {  160 0 240 / 255 255 255 }
+Key == [ 160 0 45 / 48 48 48 ] ~ {  160 0 240 / 255 255 255 } ++ BOLD
+Label == [ 0 240 120 / 255 0 0 ] ~ {  160 0 240 / 255 255 255 }
+Message == [ 13 240 127 / 255 92 15 ] ~ {  160 0 240 / 255 255 255 } ++ ITALIC
+Number == [ 160 240 75 / 0 0 160 ] ~ {  160 0 240 / 255 255 255 }
+Space == [ 120 240 60 / 0 128 128 ] ~ {  160 0 240 / 255 255 255 } ++ ITALIC
+String == [ 0 240 70 / 149 0 0 ] ~ {  160 0 240 / 255 255 255 }
+Symbol == [ 160 240 60 / 0 0 128 ] ~ {  160 0 240 / 255 255 255 }
+Variable == [ 0 240 157 / 255 79 79 ] ~ { 160 0 240 / 255 255 255 }
+
+
+
+
+
+
+
+                 Global:
+Highlighter Background == 160 0 240 / 255 255 255
+File tab color == 160 0 240 / 255 255 255
+Background == 40 240 120 / 255 255 0
+
+
+                 Unique:
+Comment == [ 160 0 104 / 110 110 110 ] ~ { 160 0 240 / 255 255 255 } ++ ITALIC
+Identifier == [ 160 0 46 / 49 49 49 ] ~ {  160 0 240 / 255 255 255 }
+Key == [ 160 0 45 / 48 48 48 ] ~ {  160 0 240 / 255 255 255 } ++ BOLD
+Label == [ 0 240 120 / 255 0 0 ] ~ {  160 0 240 / 255 255 255 }
+Message == [ 13 240 127 / 255 92 15 ] ~ {  160 0 240 / 255 255 255 } ++ ITALIC
+Number == [ 160 240 75 / 0 0 160 ] ~ {  160 0 240 / 255 255 255 }
+Space == [ 120 240 60 / 0 128 128 ] ~ {  160 0 240 / 255 255 255 } ++ ITALIC
+String == [ 0 240 70 / 149 0 0 ] ~ {  160 0 240 / 255 255 255 }
+Symbol == [ 160 240 60 / 0 0 128 ] ~ {  160 0 240 / 255 255 255 }
+Variable == [ 0 240 157 / 255 79 79 ] ~ { 160 0 240 / 255 255 255 }
+
+
+
+
+
+                 Global:
+Highlighter Background == 160 0 240 / 255 255 255
+File tab color == 160 0 240 / 255 255 255
+Background == 40 240 120 / 255 255 0
+
+
+                 Unique:
+Comment == 160 0 104 / 110 110 110 \ 160 0 240 / 255 255 255 ++ ITALIC
+Identifier == 160 0 46 / 49 49 49 \ 160 0 240 / 255 255 255
+Key == 160 0 45 / 48 48 48 \ 160 0 240 / 255 255 255 ++ BOLD
+Label == 0 240 120 / 255 0 0 \ 160 0 240 / 255 255 255
+Message == 13 240 127 / 255 92 15 \ 160 0 240 / 255 255 255 ++ ITALIC
+Number == 160 240 75 / 0 0 160 \ 160 0 240 / 255 255 255
+Space == 120 240 60 / 0 128 128 \ 160 0 240 / 255 255 255 ++ ITALIC
+String == 0 240 70 / 149 0 0 \ 160 0 240 / 255 255 255
+Symbol == 160 240 60 / 0 0 128 \ 160 0 240 / 255 255 255
+Variable == 0 240 157 / 255 79 79 \ 160 0 240 / 255 255 255
+
+
+
+$name == $color ++ $style
+$name == $color.FONT \ $color.BACKGROUND ++ $style
+$color == Hue Sat Lum / Red Green Blue
+$name == $font \ $background ++ $style 
+$name == Hue Sat Lum / Red Green Blue \ $background
+
+ '' == 160 0 240 / 255 255 255
+ Hue Sat Lum ^^  /  ^^ Red Green Blue
+                                      \ '' 
+                                       ^^ == Background 
+                                            ++ 
+ '' == Background == 160 0 240 / 255 255 255
+              Hue Sat Lum ^^  /  ^^ Red Green Blue
+
+
+                 Global:
+Highlighter Background == ''
+File tab color == ''
+Background == 40 240 120 / 255 255 0
+
+
+                 Unique:
+Comment == 160 0 104 / 110 110 110 \ '' ++ ITALIC
+Identifier == 160 0 46 / 49 49 49 \ ''
+Key == 160 0 45 / 48 48 48 \ '' ++ BOLD
+Label == 0 240 120 / 255 0 0 \ ''
+Message == 13 240 127 / 255 92 15 \ '' ++ ITALIC
+Number == 160 240 75 / 0 0 160 \ ''
+Space == 120 240 60 / 0 128 128 \ '' ++ ITALIC
+String == 0 240 70 / 149 0 0 \ ''
+Symbol == 160 240 60 / 0 0 128 \ ''
+Variable == 0 240 157 / 255 79 79 \ ''
+
+
+
+
+
+
+
+                 Global:
+
+Highlighter Background == 160 0 240 / 255 255 255
+File tab color == 160 0 240 / 255 255 255
+Background == 40 240 120 / 255 255 0
+
+
+                  Unique:
+ '' == Background == 160 0 240 / 255 255 255
+              Hue Sat Lum ^^  /  ^^ Red Green Blue
+       ^^ == '' === ^^
+ '' == 160 0 240 / 255 255 255
+
+
+                  Unique:
+    Background == ''
+ '' == 160 0 240 / 255 255 255
+
+Comment == 160 0 104 / 110 110 110 \ '' ++ ITALIC
+Identifier == 160 0 46 / 49 49 49 \ ''
+Key == 160 0 45 / 48 48 48 \ '' ++ BOLD
+Label == 0 240 120 / 255 0 0 \ ''
+Message == 13 240 127 / 255 92 15 \ '' ++ ITALIC
+Number == 160 240 75 / 0 0 160 \ ''
+Space == 120 240 60 / 0 128 128 \ '' ++ ITALIC
+String == 0 240 70 / 149 0 0 \ ''
+Symbol == 160 240 60 / 0 0 128 \ ''
+Variable == 0 240 157 / 255 79 79 \ ''
+
+
+
+
+
+
+
+
+Comment == 160 0 104 / 110 110 110 ++ ITALIC
+Identifier == 160 0 46 / 49 49 49
+Key == 160 0 45 / 48 48 48 ++ BOLD
+Label == 0 240 120 / 255 0 0
+Message == 13 240 127 / 255 92 15 ++ ITALIC
+Number == 160 240 75 / 0 0 160
+Space == 120 240 60 / 0 128 128 ++ ITALIC
+String == 0 240 70 / 149 0 0
+Symbol == 160 240 60 / 0 0 128
+Variable == 0 240 157 / 255 79 79
+
+Background == 160 0 240 / 255 255 255
+     '' == 160 0 240 / 255 255 255
+
+
+
+
+
+
+
+
+
+Unique:
+
+Background == 160 0 240 / 255 255 255
+     '' == 160 0 240 / 255 255 255
+
+Comment == 160 0 104 / 110 110 110 ++ ITALIC
+Identifier == 160 0 46 / 49 49 49
+Key == 160 0 45 / 48 48 48 ++ BOLD
+Label == 0 240 120 / 255 0 0
+Message == 13 240 127 / 255 92 15 ++ ITALIC
+Number == 160 240 75 / 0 0 160
+Space == 120 240 60 / 0 128 128 ++ ITALIC
+String == 0 240 70 / 149 0 0
+Symbol == 160 240 60 / 0 0 128
+Variable == 0 240 157 / 255 79 79
+
+
+
+
+
+
+
+
+
+
+
+Comment == 160 0 104 / 110 110 110 \ '' ++ ITALIC
+Identifier == 160 0 46 / 49 49 49  \ ''
+Key == 160 0 45 / 48 48 48         \ '' ++ BOLD
+Label == 0 240 120 / 255 0 0       \ ''
+Message == 13 240 127 / 255 92 15  \ '' ++ ITALIC
+Number == 160 240 75 / 0 0 160     \ ''
+Space == 120 240 60 / 0 128 128    \ '' ++ ITALIC
+String == 0 240 70 / 149 0 0       \ ''
+Symbol == 160 240 60 / 0 0 128     \ ''
+Variable == 0 240 157 / 255 79 79  \ ''
+
+
+Comment == 160 0 104 / 110 110 110 ++ ITALIC
+Identifier == 160 0 46 / 49 49 49
+Key == 160 0 45 / 48 48 48 ++ BOLD
+Label == 0 240 120 / 255 0 0
+Message == 13 240 127 / 255 92 15 ++ ITALIC
+Number == 160 240 75 / 0 0 160
+Space == 120 240 60 / 0 128 128 ++ ITALIC
+String == 0 240 70 / 149 0 0
+Symbol == 160 240 60 / 0 0 128
+Variable == 0 240 157 / 255 79 79
+
+
+Comment == 160 0 104 / 110 110 110 \ '' ++ ITALIC
+Identifier == 160 0 46 / 49 49 49 \ ''
+Key == 160 0 45 / 48 48 48 \ '' ++ BOLD
+Label == 0 240 120 / 255 0 0 \ ''
+Message == 13 240 127 / 255 92 15 \ '' ++ ITALIC
+Number == 160 240 75 / 0 0 160 \ ''
+Space == 120 240 60 / 0 128 128 \ '' ++ ITALIC
+String == 0 240 70 / 149 0 0 \ ''
+Symbol == 160 240 60 / 0 0 128 \ ''
+Variable == 0 240 157 / 255 79 79 \ ''
+
+
+
+
+Comment == 160 0 104 / 110 110 110 ++ italic
+Identifier == 
+Key == 
+Label == 
+
+Message 
+Number
+
+Background == 160 0 240 / 255 255 255
+     '' == 160 0 240 / 255 255 255
+
+Comment == 160 0 104 / 110 110 110 \ '' ++ ITALIC
+Identifier == 160 0 46 / 49 49 49 \ ''
+Key == 160 0 45 / 48 48 48 \ '' ++ BOLD
+Label == 0 240 120 / 255 0 0 \ ''
+Message == 13 240 127 / 255 92 15 \ '' ++ ITALIC
+Number == 160 240 75 / 0 0 160 \ ''
+Space == 120 240 60 / 0 128 128 \ '' ++ ITALIC
+String == 0 240 70 / 149 0 0 \ ''
+Symbol == 160 240 60 / 0 0 128 \ ''
+Variable == 0 240 157 / 255 79 79 \ ''
+
+
+Global: 
+             $COLOR
+    Hue Sat Lum / Red Green Blue
+    
+          $COLOR:BACKGROUND
+       160 0 240 / 255 255 255 
+Unique:
+$COLOR:BACKGROUND
+  $NAME   $STYLE   ==        $COLOR:FONT
+                       Hue Sat Lum / Red Green Blue
+
+Comment      i     == 160 0 104 / 110 110 110
+Identifier         == 160 0 46 / 49 49 49
+Key          b     == 160 0 45 / 48 48 48
+Label              == 0 240 120 / 255 0 0
+Message      i     == 13 240 127 / 255 92 15
+Number             == 160 240 75 / 0 0 160
+Space        i     == 120 240 60 / 0 128 128
+String             == 0 240 70 / 149 0 0
+Symbol             == 160 240 60 / 0 0 128
+Variable           == 0 240 157 / 255 79 79
+
+
+
+
+
+
+
+
+Unique:
+          $STYLE   ==
+                  $COLOR
+                     Hue Sat Lum / Red Green Blue
+
+  $NAME            ==  
+Comment      i     == 160 0 104 / 110 110 110
+Identifier         == 160 0 46 / 49 49 49
+Key          b     == 160 0 45 / 48 48 48
+Label              == 0 240 120 / 255 0 0
+Message      i     == 13 240 127 / 255 92 15
+Number             == 160 240 75 / 0 0 160
+Space        i     == 120 240 60 / 0 128 128
+String             == 0 240 70 / 149 0 0
+Symbol             == 160 240 60 / 0 0 128
+Variable           == 0 240 157 / 255 79 79
+
+
+Hue Sat Lum
+Red Green Blue
+
+
+
+
+
+                                            Global:
+
+                                         Hue Sat Lum
+                                        Red Green Blue
+                                             
+                                          160 0 240
+                                         255 255 255
+                                              
+                               [ Highlighter | File tab | Background ]
+                               
+             Outside these three - any name listed can have unique color and style.
+             
+                                   Color { Font | Background }
+                              Style { Bold | Italic | Underline }
+
+Comment      i     == 160 0 104 / 110 110 110
+Identifier         == 160 0 46 / 49 49 49
+Key          b     == 160 0 45 / 48 48 48
+Label              == 0 240 120 / 255 0 0
+Message      i     == 13 240 127 / 255 92 15
+Number             == 160 240 75 / 0 0 160
+Space        i     == 120 240 60 / 0 128 128
+String             == 0 240 70 / 149 0 0
+Symbol             == 160 240 60 / 0 0 128
+Variable           == 0 240 157 / 255 79 79
+
+
+
+
+
+
+
+
+160 0 104 110 110 110 ==
+160 0 46 49 49 49  
+= 
+
+
+Comment:i \ 160 0 104 / 110 110 110
+Identifier: \ 160 0 46 / 49 49 49
+Key:b \ 160 0 45 / 48 48 48
+
+
+
+
+
+
+
+
+
+
+Comment: 
+++ Italic
+160 0 104
+110 110 110
+
+
+
+Identifier:
+160 0 46
+49 49 49
+
+Key: 
+++ Bold
+160 0 45
+48 48 48
+
+
+Label:
+0 240 120
+255 0 0
+
+
+Message: 
+++ Italic
+13 240 127
+255 92 15
+
+
+
+Number:
+160 240 75
+0 0 160
+
+
+
+Space: 
+++ Italic
+120 240 60
+0 128 128
+
+String:
+0 240 70
+149 0 0
+
+
+
+Symbol:
+160 240 60
+0 0 128
+
+
+Variable:
+0 240 157
+255 79 79
+
+
+
+Bold   == Key
+Italic == Comment | Message | Space
+
+
+
+
+Comment: Italic
+160 0 104
+110 110 110
+
+
+
+Identifier:
+160 0 46
+49 49 49
+
+
+Key: Bold
+160 0 45
+48 48 48
+
+
+Label:
+0 240 120
+255 0 0
+
+
+
+Message: Italic
+13 240 127
+255 92 15
+
+
+
+Number:
+160 240 75
+0 0 160
+
+
+
+Space: Italic
+120 240 60
+0 128 128
+
+
+
+String:
+0 240 70
+149 0 0
+
+
+
+Symbol:
+160 240 60
+0 0 128
+
+
+
+Variable:
+0 240 157
+255 79 79
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                Global:
+
+                                              Hue Sat Lum
+                                             Red Green Blue
+                                             
+                                               160 0 240
+                                              255 255 255
+                                              
+                               [ Highlighter | File tab | Background ]
+             Outside these three - any name listed can have unique color and style.
+                                   Color { Font | Background }
+                              Style { Bold | Italic | Underline }
+               
+               
+               
+               
+                   Outside these three - any name listed can have unique style and color.
+                    Style { Bold | Italic | Underline } && Color { Font | Background }
+
+               160 0 240
+              255 255 255
+
+Each name can have unique style { Bold | Italic | Underline } and color { Font | Background }
+
+
+
+       All have same background
+               160 0 240
+              255 255 255
+
+
+                Global:
+[ Highlighter | File tab | Background ]
+
+
+
+
+Outside those few any name listed can have unique color or style.
+        Color{ Font | Background }
+    Style{ Bold | Italic | Underline }
+                Unique:
+        Color{ Font | Background }
+        Style{ Bold | Italic | Underline }
+                    Unique:
+                Any name listed::
+        Style{ Bold | Italic | Underline }
+        Color{ Font | Background }
+     [ Style | Color{ Font | Background } ]
+ Any name can have own sytle, font color, and background
+      Otherwise each name can have unique background
+ [ Each name can be unique ]
+
+
+Comment: Italic
+160 0 104
+110 110 110
+
+
+
+Identifier:
+160 0 46
+49 49 49
+
+
+Key: Bold
+160 0 45
+48 48 48
+
+
+Label:
+0 240 120
+255 0 0
+
+
+
+Message: Italic
+13 240 127
+255 92 15
+
+
+
+Number:
+160 240 75
+0 0 160
+
+
+
+Space: Italic
+120 240 60
+0 128 128
+
+
+
+String:
+0 240 70
+149 0 0
+
+
+
+Symbol:
+160 240 60
+0 0 128
+
+
+
+Variable:
+0 240 157
+255 79 79
+
+
+
+
+
+
+
+GLOBAL :: 
+Highlighter Background:
+160 0 240
+255 255 255
+
+
+File tab color:
+160 0 240
+255 255 255
+
+
+Current line:
+
+
+Background:
+40 240 120
+255 255 0
+
+
+
+
+
+
+
+
+
+
+Identifier:
+
+
+
+Key:
+
+
+
+Label:
+
+
+
+Message:
+
+
+
+Number:
+
+
+
+Space:
+
+
+
+String:
+
+
+
+Symbol:
+
+
+
+Variable:
+
+
+
+
+Current line
+Background
+
